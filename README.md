@@ -2,8 +2,6 @@
 
 ## The wm that does it all.
 
-> For the backup of the dwl-based implementation, see [the wlroots branch](https://ka.myvnc.com/git/PokumeKachi/kawm/src/branch/wlroots)
-
 # Design goals/philosophies
 
 - Stop with the clusterfuck, this window manager do not seek to further satisfy YT Shorts kids' urgent need to have 10-or-so workspaces open for "efficiently productive" multitasking.
